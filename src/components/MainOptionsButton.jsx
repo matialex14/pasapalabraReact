@@ -19,7 +19,7 @@ export function MainOptionsButton({ updateFullScreenState }) {
   return (
     <div className='optionsButtons'>
       <button onClick={handleMainFrameClick}>
-        <img src='../Images/icon--fullscreen.png' alt='' />
+        <img src='../assets/images/icon--fullscreen.png' alt='a' />
       </button>
     </div>
   );
